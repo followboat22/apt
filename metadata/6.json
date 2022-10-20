@@ -1,0 +1,47 @@
+{
+  "name": "Space Apes #6",
+  "description": "SPace apes",
+  "image": "ipfs:///QmcTjHubWwzz717vdQtjuj6aqrGgQrL9Pxt33Yk9q5oMz2/6.png",
+  "dna": "b9d04de139a88842f9ec0700911164221e3eed1c",
+  "edition": 6,
+  "date": 1666268358692,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Helmet Interior",
+      "value": "blueinterior"
+    },
+    {
+      "trait_type": "Apes",
+      "value": "Greyape"
+    },
+    {
+      "trait_type": "Ornaments",
+      "value": "eyebrowpiece"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampireteeth"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3DGlasses"
+    },
+    {
+      "trait_type": "Space Suits",
+      "value": "Brokensuit"
+    },
+    {
+      "trait_type": "Helmet Glass",
+      "value": "PlainHelmetglass"
+    },
+    {
+      "trait_type": "Suit Display",
+      "value": "Errordisplay"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

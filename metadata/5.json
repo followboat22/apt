@@ -1,0 +1,47 @@
+{
+  "name": "Space Apes #5",
+  "description": "SPace apes",
+  "image": "ipfs:///QmcTjHubWwzz717vdQtjuj6aqrGgQrL9Pxt33Yk9q5oMz2/5.png",
+  "dna": "6ea5440d8e4f33c78f1165089c240cd5e5649774",
+  "edition": 5,
+  "date": 1666268350681,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Helmet Interior",
+      "value": "Orangeinterior"
+    },
+    {
+      "trait_type": "Apes",
+      "value": "Purpleape"
+    },
+    {
+      "trait_type": "Ornaments",
+      "value": "eyebrowpiece"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampireteeth"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "BlackGoggles"
+    },
+    {
+      "trait_type": "Space Suits",
+      "value": "Yellowsuit"
+    },
+    {
+      "trait_type": "Helmet Glass",
+      "value": "BrokenHelmetglass"
+    },
+    {
+      "trait_type": "Suit Display",
+      "value": "Biddingdisplay"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
